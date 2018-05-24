@@ -1,0 +1,20 @@
+{
+  "name": "learning-fun",
+  "version": "1.0.0",
+  "description": "Learning some things for fun!",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nThomas/learning-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3nThomas/learning-fun/issues"
+  },
+  "homepage": "https://github.com/b3nThomas/learning-fun#readme"
+}
